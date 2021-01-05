@@ -27,9 +27,4 @@ public class RegistroDeUsuarios {
         agregarClienteCase.flujo();
     }
 
-    @Test
-    private void agregarProducto(){
-        AgregarProductoCase agregarProductoCase = new AgregarProductoCase();
-        agregarProductoCase.flujo();
-    }
 }

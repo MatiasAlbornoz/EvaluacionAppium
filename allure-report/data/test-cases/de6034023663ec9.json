@@ -1,0 +1,262 @@
+{
+  "uid" : "de6034023663ec9",
+  "name" : "agregarProducto",
+  "fullName" : "testSuite.EvaluacionAppium.agregarProducto",
+  "historyId" : "e5ef87c6f441a72fdf329e3fef031cc8",
+  "time" : {
+    "start" : 1609862958560,
+    "stop" : 1609862982258,
+    "duration" : 23698
+  },
+  "status" : "failed",
+  "statusMessage" : "Error, no se encontró el menú Productos",
+  "statusTrace" : "java.lang.AssertionError: Error, no se encontró el menú Productos\n\tat org.testng.Assert.fail(Assert.java:97)\n\tat reports.Reports.addStep(Reports.java:36)\n\tat pages.RegistroPage.tapMenuProductos(RegistroPage.java:78)\n\tat testClases.AgregarProductoCase.flujo(AgregarProductoCase.java:28)\n\tat testSuite.EvaluacionAppium.agregarProducto(EvaluacionAppium.java:25)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\n\tat java.util.ArrayList.forEach(ArrayList.java:1259)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:766)\n\tat org.testng.TestRunner.run(TestRunner.java:587)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1109)\n\tat org.testng.TestNG.runSuites(TestNG.java:1039)\n\tat org.testng.TestNG.run(TestNG.java:1007)\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "iniciarSession",
+    "time" : {
+      "start" : 1609862940004,
+      "stop" : 1609862948387,
+      "duration" : 8383
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error, no se encontró el menú Productos",
+    "statusTrace" : "java.lang.AssertionError: Error, no se encontró el menú Productos\n\tat org.testng.Assert.fail(Assert.java:97)\n\tat reports.Reports.addStep(Reports.java:36)\n\tat pages.RegistroPage.tapMenuProductos(RegistroPage.java:78)\n\tat testClases.AgregarProductoCase.flujo(AgregarProductoCase.java:28)\n\tat testSuite.EvaluacionAppium.agregarProducto(EvaluacionAppium.java:25)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\n\tat java.util.ArrayList.forEach(ArrayList.java:1259)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:766)\n\tat org.testng.TestRunner.run(TestRunner.java:587)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1109)\n\tat org.testng.TestNG.runSuites(TestNG.java:1039)\n\tat org.testng.TestNG.run(TestNG.java:1007)\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\n",
+    "steps" : [ {
+      "name" : "Validar vista 1 de carrusel",
+      "time" : {
+        "start" : 1609862958780,
+        "stop" : 1609862959218,
+        "duration" : 438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "39e59af355b801ab",
+        "name" : "Imagen Adjunta",
+        "source" : "39e59af355b801ab.png",
+        "type" : "image/png",
+        "size" : 126143
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Validar Registro Desplegada",
+      "time" : {
+        "start" : 1609862964440,
+        "stop" : 1609862965079,
+        "duration" : 639
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f96016eee1981df3",
+        "name" : "Imagen Adjunta",
+        "source" : "f96016eee1981df3.png",
+        "type" : "image/png",
+        "size" : 121092
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Tap al botón '+ '",
+      "time" : {
+        "start" : 1609862965226,
+        "stop" : 1609862965226,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Tap al botón Crear Producto",
+      "time" : {
+        "start" : 1609862966293,
+        "stop" : 1609862966293,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Validar Crear Producto Desplegada",
+      "time" : {
+        "start" : 1609862967721,
+        "stop" : 1609862968187,
+        "duration" : 466
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a906327a9d9ea6af",
+        "name" : "Imagen Adjunta",
+        "source" : "a906327a9d9ea6af.png",
+        "type" : "image/png",
+        "size" : 95907
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Formulario de Creación de Producto completado ",
+      "time" : {
+        "start" : 1609862970232,
+        "stop" : 1609862970620,
+        "duration" : 388
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1f898878c0d556f4",
+        "name" : "Imagen Adjunta",
+        "source" : "1f898878c0d556f4.png",
+        "type" : "image/png",
+        "size" : 131293
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Tap en botón confirmar para crear producto ",
+      "time" : {
+        "start" : 1609862970831,
+        "stop" : 1609862971467,
+        "duration" : 636
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3deb2cd734491b1",
+        "name" : "Imagen Adjunta",
+        "source" : "3deb2cd734491b1.png",
+        "type" : "image/png",
+        "size" : 104782
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Error, no se encontró el menú Productos",
+      "time" : {
+        "start" : 1609862981893,
+        "stop" : 1609862982248,
+        "duration" : 355
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "31fb83492485f7a1",
+        "name" : "Imagen Adjunta",
+        "source" : "31fb83492485f7a1.png",
+        "type" : "image/png",
+        "size" : 121092
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "cerrarSesion",
+    "time" : {
+      "start" : 1609862982273,
+      "stop" : 1609862982374,
+      "duration" : 101
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testSuite.EvaluacionAppium"
+  }, {
+    "name" : "testClass",
+    "value" : "testSuite.EvaluacionAppium"
+  }, {
+    "name" : "testMethod",
+    "value" : "agregarProducto"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "CursoAppium"
+  }, {
+    "name" : "subSuite",
+    "value" : "testSuite.EvaluacionAppium"
+  }, {
+    "name" : "host",
+    "value" : "MCEX2AX69.local"
+  }, {
+    "name" : "thread",
+    "value" : "25599@MCEX2AX69.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de6034023663ec9.json",
+  "parameterValues" : [ ]
+}

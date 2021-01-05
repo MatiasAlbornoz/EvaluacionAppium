@@ -19,7 +19,7 @@ public class CrearProductoPage {
         PageFactory.initElements(new AppiumFieldDecorator(driver), this);
     }
 
-    @AndroidFindBy(xpath = "//*[contains(@text,\"Crear Producto\")]")
+    @AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView")
     private MobileElement tituloVistaCrearProducto;
 
     @AndroidFindBy(id = "com.rodrigo.registro:id/nombre_producto")
@@ -36,8 +36,23 @@ public class CrearProductoPage {
             addStep("Validar Crear Producto Desplegada", true, Status.PASSED, false);
         }
         else {
-            addStep("Error en Validar Crear Producto Desplegada", true, Status.FAILED , true);
+            addStep("Error en Vista Crear Producto", true, Status.FAILED , true);
         }
 
+    }
+
+    public void completarFormularioProducto(String nombre, String  precio){
+        System.out.println("[CrearProducto Page] Completar formulario de creación de producto ");
+        inputNombre.setValue(nombre);
+        this.driver.hideKeyboard();
+        inputPrecioLista.click();
+        inputPrecioLista.setValue(precio);
+        this.driver.hideKeyboard();
+        addStep("Formulario de Creación de Producto completado ", true, Status.PASSED, false);
+    }
+
+    public void tapConfirmar(){
+        btnConfirmar.click();
+        addStep("Tap en botón confirmar para crear producto ", true, Status.PASSED, false);
     }
 }
