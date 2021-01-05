@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jan 04 16:28:53 CLST 2021","Mon Jan 04 16:28:54 CLST 2021","1736","Default Suite","CursoAppium","testSuite.Example2","testSuite.Example2","test1","test1",""
-"passed","Tue Jan 05 13:54:23 CLST 2021","Tue Jan 05 13:54:38 CLST 2021","15156","Default Suite","CursoAppium","testSuite.EvaluacionAppium","testSuite.EvaluacionAppium","eliminarCliente","eliminarCliente",""
-"passed","Mon Jan 04 17:25:13 CLST 2021","Mon Jan 04 17:25:20 CLST 2021","7295","Default Suite","CursoAppium","testSuite.RegistroDeUsuarios","testSuite.RegistroDeUsuarios","agregarProducto","agregarProducto",""
-"broken","Mon Jan 04 16:26:19 CLST 2021","Mon Jan 04 16:26:19 CLST 2021","2","Default Suite","CursoAppium","testSuite.Example2","testSuite.Example2","iniciarSession","iniciarSession",""
-"passed","Tue Jan 05 14:07:53 CLST 2021","Tue Jan 05 14:08:08 CLST 2021","15086","Default Suite","CursoAppium","testSuite.EvaluacionAppium","testSuite.EvaluacionAppium","agregarProducto","Test para agregar un producto y validar su creación posteriormente",""
-"broken","Mon Jan 04 16:57:19 CLST 2021","Mon Jan 04 16:57:19 CLST 2021","6","Default Suite","CursoAppium","testSuite.RegistroDeUsuarios","testSuite.RegistroDeUsuarios","iniciarSession","iniciarSession",""
-"passed","Mon Jan 04 16:58:55 CLST 2021","Mon Jan 04 16:59:00 CLST 2021","4446","Default Suite","CursoAppium","testSuite.RegistroDeUsuarios","testSuite.RegistroDeUsuarios","agregarCliente","agregarCliente",""
