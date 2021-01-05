@@ -8,6 +8,7 @@ import testClases.AgregarProductoCase;
 import testClases.EliminarClienteCase;
 
 import static conexion.DriverContext.setUp;
+import static reports.Reports.finalAssert;
 
 public class EvaluacionAppium {
     @BeforeMethod
@@ -24,11 +25,13 @@ public class EvaluacionAppium {
     public void agregarProducto(){
         AgregarProductoCase agregarProductoCase = new AgregarProductoCase();
         agregarProductoCase.flujo();
+        finalAssert();
     }
 
     @Test(description = "Test para eliminar un cliente que ya haya sido creado")
     public void eliminarCliente(){
         EliminarClienteCase eliminarClienteCase = new EliminarClienteCase();
         eliminarClienteCase.flujo();
+        finalAssert();
     }
 }
