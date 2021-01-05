@@ -1,5 +1,5 @@
 {
-  "uid" : "aff40a7a9d59d031",
+  "uid" : "ae9e27e70b804e31",
   "name" : "agregarProducto",
   "fullName" : "testSuite.EvaluacionAppium.agregarProducto",
   "historyId" : "e5ef87c6f441a72fdf329e3fef031cc8",
@@ -44,9 +44,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "65127e52959ce5e1",
+        "uid" : "eccd703d1d9b1bfc",
         "name" : "Imagen Adjunta",
-        "source" : "65127e52959ce5e1.png",
+        "source" : "eccd703d1d9b1bfc.png",
         "type" : "image/png",
         "size" : 125391
       } ],
@@ -65,9 +65,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "fa6470a43b56f5c1",
+        "uid" : "91889e5e136a9e49",
         "name" : "Imagen Adjunta",
-        "source" : "fa6470a43b56f5c1.png",
+        "source" : "91889e5e136a9e49.png",
         "type" : "image/png",
         "size" : 120596
       } ],
@@ -116,9 +116,9 @@
       "status" : "failed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "4326f25257d44478",
+        "uid" : "b7df294f761842c8",
         "name" : "Imagen Adjunta",
-        "source" : "4326f25257d44478.png",
+        "source" : "b7df294f761842c8.png",
         "type" : "image/png",
         "size" : 95359
       } ],
@@ -194,6 +194,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "aff40a7a9d59d031.json",
+  "source" : "ae9e27e70b804e31.json",
   "parameterValues" : [ ]
 }

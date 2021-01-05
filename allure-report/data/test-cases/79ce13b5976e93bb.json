@@ -1,5 +1,5 @@
 {
-  "uid" : "8eb4038e0e9945f1",
+  "uid" : "79ce13b5976e93bb",
   "name" : "test1",
   "fullName" : "testSuite.Example2.test1",
   "historyId" : "4fc941354240c0e2c6ce8ebe5b0f8898",
@@ -40,9 +40,9 @@
       "status" : "failed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "371fc4f050ac74c9",
+        "uid" : "e74882aefaff221a",
         "name" : "Imagen Adjunta",
-        "source" : "371fc4f050ac74c9.png",
+        "source" : "e74882aefaff221a.png",
         "type" : "image/png",
         "size" : 495821
       } ],
@@ -101,7 +101,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "4210085f526b9062",
+      "uid" : "5434792b13962dc6",
       "status" : "skipped",
       "statusDetails" : "Connection refused (Connection refused)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver",
       "time" : {
@@ -113,6 +113,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8eb4038e0e9945f1.json",
+  "source" : "79ce13b5976e93bb.json",
   "parameterValues" : [ ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "c0b79b0ba8ea380c",
-  "name" : "agregarProducto",
+  "uid" : "267160c55f762fc",
+  "name" : "Test para agregar un producto y validar su creación posteriormente",
   "fullName" : "testSuite.EvaluacionAppium.agregarProducto",
   "historyId" : "e5ef87c6f441a72fdf329e3fef031cc8",
   "time" : {
-    "start" : 1609863882500,
-    "stop" : 1609863897273,
-    "duration" : 14773
+    "start" : 1609866473088,
+    "stop" : 1609866488174,
+    "duration" : 15086
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "iniciarSession",
     "time" : {
-      "start" : 1609863863795,
-      "stop" : 1609863872325,
-      "duration" : 8530
+      "start" : 1609866453778,
+      "stop" : 1609866462894,
+      "duration" : 9116
     },
     "description" : "",
     "status" : "passed",
@@ -33,18 +33,18 @@
     "steps" : [ {
       "name" : "Validar vista 1 de carrusel",
       "time" : {
-        "start" : 1609863882756,
-        "stop" : 1609863883188,
-        "duration" : 432
+        "start" : 1609866473407,
+        "stop" : 1609866474093,
+        "duration" : 686
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "2db8670350ad4258",
+        "uid" : "29c87ce607c2a2fb",
         "name" : "Imagen Adjunta",
-        "source" : "2db8670350ad4258.png",
+        "source" : "29c87ce607c2a2fb.png",
         "type" : "image/png",
-        "size" : 125356
+        "size" : 126284
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -54,18 +54,18 @@
     }, {
       "name" : "Validar Registro Desplegada",
       "time" : {
-        "start" : 1609863888112,
-        "stop" : 1609863888508,
-        "duration" : 396
+        "start" : 1609866479510,
+        "stop" : 1609866480125,
+        "duration" : 615
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "21af774dbd500309",
+        "uid" : "cd2b53208bbe5bc5",
         "name" : "Imagen Adjunta",
-        "source" : "21af774dbd500309.png",
+        "source" : "cd2b53208bbe5bc5.png",
         "type" : "image/png",
-        "size" : 120585
+        "size" : 120301
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -75,8 +75,8 @@
     }, {
       "name" : "Tap al botón '+ '",
       "time" : {
-        "start" : 1609863888548,
-        "stop" : 1609863888548,
+        "start" : 1609866480171,
+        "stop" : 1609866480171,
         "duration" : 0
       },
       "status" : "passed",
@@ -90,8 +90,8 @@
     }, {
       "name" : "Tap al botón Crear Producto",
       "time" : {
-        "start" : 1609863889480,
-        "stop" : 1609863889480,
+        "start" : 1609866481168,
+        "stop" : 1609866481168,
         "duration" : 0
       },
       "status" : "passed",
@@ -105,18 +105,18 @@
     }, {
       "name" : "Validar Crear Producto Desplegada",
       "time" : {
-        "start" : 1609863890672,
-        "stop" : 1609863891039,
-        "duration" : 367
+        "start" : 1609866482423,
+        "stop" : 1609866482828,
+        "duration" : 405
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "51c8d88c5c488f97",
+        "uid" : "d954b3c1178baa0d",
         "name" : "Imagen Adjunta",
-        "source" : "51c8d88c5c488f97.png",
+        "source" : "d954b3c1178baa0d.png",
         "type" : "image/png",
-        "size" : 95318
+        "size" : 96515
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -126,18 +126,18 @@
     }, {
       "name" : "Formulario de Creación de Producto completado ",
       "time" : {
-        "start" : 1609863893137,
-        "stop" : 1609863893563,
-        "duration" : 426
+        "start" : 1609866484930,
+        "stop" : 1609866485332,
+        "duration" : 402
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "cbb8338323e78950",
+        "uid" : "7f972db7612dd49d",
         "name" : "Imagen Adjunta",
-        "source" : "cbb8338323e78950.png",
+        "source" : "7f972db7612dd49d.png",
         "type" : "image/png",
-        "size" : 128121
+        "size" : 130024
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -147,18 +147,18 @@
     }, {
       "name" : "Tap en botón confirmar para crear producto ",
       "time" : {
-        "start" : 1609863893723,
-        "stop" : 1609863895162,
-        "duration" : 1439
+        "start" : 1609866485512,
+        "stop" : 1609866486142,
+        "duration" : 630
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "511c63e160b8ffea",
+        "uid" : "6e299b058470a20e",
         "name" : "Imagen Adjunta",
-        "source" : "511c63e160b8ffea.png",
+        "source" : "6e299b058470a20e.png",
         "type" : "image/png",
-        "size" : 103737
+        "size" : 105456
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -168,8 +168,8 @@
     }, {
       "name" : "Tap al menú de Productos",
       "time" : {
-        "start" : 1609863895283,
-        "stop" : 1609863895283,
+        "start" : 1609866486526,
+        "stop" : 1609866486526,
         "duration" : 0
       },
       "status" : "passed",
@@ -183,18 +183,18 @@
     }, {
       "name" : "Producto: Audifonos creado exitosamente",
       "time" : {
-        "start" : 1609863896655,
-        "stop" : 1609863897268,
-        "duration" : 613
+        "start" : 1609866487756,
+        "stop" : 1609866488172,
+        "duration" : 416
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "314abaeaed50f2c7",
+        "uid" : "a1994968e08ed2e6",
         "name" : "Imagen Adjunta",
-        "source" : "314abaeaed50f2c7.png",
+        "source" : "a1994968e08ed2e6.png",
         "type" : "image/png",
-        "size" : 105602
+        "size" : 107210
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -212,9 +212,9 @@
   "afterStages" : [ {
     "name" : "cerrarSesion",
     "time" : {
-      "start" : 1609863897290,
-      "stop" : 1609863897452,
-      "duration" : 162
+      "start" : 1609866488186,
+      "stop" : 1609866488304,
+      "duration" : 118
     },
     "description" : "",
     "status" : "passed",
@@ -249,7 +249,7 @@
     "value" : "MCEX2AX69.local"
   }, {
     "name" : "thread",
-    "value" : "26946@MCEX2AX69.local.main(1)"
+    "value" : "30925@MCEX2AX69.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -267,7 +267,15 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "eb1fbb525cccfea9",
+      "uid" : "53c5297b5dd70027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609863882500,
+        "stop" : 1609863897273,
+        "duration" : 14773
+      }
+    }, {
+      "uid" : "98c3b9c85c4a5001",
       "status" : "broken",
       "statusDetails" : "java.util.ArrayList cannot be cast to io.appium.java_client.MobileElement",
       "time" : {
@@ -276,7 +284,7 @@
         "duration" : 14146
       }
     }, {
-      "uid" : "ad56346cebf9fa47",
+      "uid" : "928e4658f0340d4e",
       "status" : "broken",
       "statusDetails" : "java.util.ArrayList cannot be cast to io.appium.java_client.MobileElement",
       "time" : {
@@ -285,7 +293,7 @@
         "duration" : 14002
       }
     }, {
-      "uid" : "de6034023663ec9",
+      "uid" : "12fe58fc013a06ff",
       "status" : "failed",
       "statusDetails" : "Error, no se encontró el menú Productos",
       "time" : {
@@ -294,7 +302,7 @@
         "duration" : 23698
       }
     }, {
-      "uid" : "bebeda5ed3bf14bb",
+      "uid" : "920e2633c4a8ac52",
       "status" : "passed",
       "time" : {
         "start" : 1609861694774,
@@ -302,7 +310,7 @@
         "duration" : 12821
       }
     }, {
-      "uid" : "7007dd1bedf7896d",
+      "uid" : "4f216efc6a2f525d",
       "status" : "failed",
       "statusDetails" : "Error en Vista Crear Producto",
       "time" : {
@@ -311,7 +319,7 @@
         "duration" : 9103
       }
     }, {
-      "uid" : "aff40a7a9d59d031",
+      "uid" : "ae9e27e70b804e31",
       "status" : "failed",
       "statusDetails" : "Error en Vista Crear Producto",
       "time" : {
@@ -320,7 +328,7 @@
         "duration" : 9233
       }
     }, {
-      "uid" : "d3b6d91b3df1c40e",
+      "uid" : "3147da63ff432511",
       "status" : "failed",
       "statusDetails" : "Error en Vista Crear Producto",
       "time" : {
@@ -332,6 +340,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "c0b79b0ba8ea380c.json",
+  "source" : "267160c55f762fc.json",
   "parameterValues" : [ ]
 }

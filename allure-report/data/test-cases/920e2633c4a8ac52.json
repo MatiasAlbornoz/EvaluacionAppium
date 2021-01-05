@@ -1,12 +1,12 @@
 {
-  "uid" : "ed3cbafd3a93cce1",
+  "uid" : "920e2633c4a8ac52",
   "name" : "agregarProducto",
-  "fullName" : "testSuite.RegistroDeUsuarios.agregarProducto",
-  "historyId" : "a580238c626f169610ffa8bfbccd3d2",
+  "fullName" : "testSuite.EvaluacionAppium.agregarProducto",
+  "historyId" : "e5ef87c6f441a72fdf329e3fef031cc8",
   "time" : {
-    "start" : 1609791913249,
-    "stop" : 1609791920544,
-    "duration" : 7295
+    "start" : 1609861694774,
+    "stop" : 1609861707595,
+    "duration" : 12821
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "iniciarSession",
     "time" : {
-      "start" : 1609791894343,
-      "stop" : 1609791903068,
-      "duration" : 8725
+      "start" : 1609861676319,
+      "stop" : 1609861684571,
+      "duration" : 8252
     },
     "description" : "",
     "status" : "passed",
@@ -33,18 +33,18 @@
     "steps" : [ {
       "name" : "Validar vista 1 de carrusel",
       "time" : {
-        "start" : 1609791913490,
-        "stop" : 1609791913965,
-        "duration" : 475
+        "start" : 1609861695009,
+        "stop" : 1609861695447,
+        "duration" : 438
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "659d9cb61dbde0ca",
+        "uid" : "e15ebf409aae0b61",
         "name" : "Imagen Adjunta",
-        "source" : "659d9cb61dbde0ca.png",
+        "source" : "e15ebf409aae0b61.png",
         "type" : "image/png",
-        "size" : 125999
+        "size" : 126863
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -54,18 +54,18 @@
     }, {
       "name" : "Validar Registro Desplegada",
       "time" : {
-        "start" : 1609791919051,
-        "stop" : 1609791919503,
-        "duration" : 452
+        "start" : 1609861700582,
+        "stop" : 1609861700980,
+        "duration" : 398
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "601f49eda81aaee9",
+        "uid" : "e64d9de261b5c31b",
         "name" : "Imagen Adjunta",
-        "source" : "601f49eda81aaee9.png",
+        "source" : "e64d9de261b5c31b.png",
         "type" : "image/png",
-        "size" : 120971
+        "size" : 121615
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -75,8 +75,8 @@
     }, {
       "name" : "Tap al botón '+ '",
       "time" : {
-        "start" : 1609791919539,
-        "stop" : 1609791919539,
+        "start" : 1609861701021,
+        "stop" : 1609861701021,
         "duration" : 0
       },
       "status" : "passed",
@@ -90,8 +90,8 @@
     }, {
       "name" : "Tap al botón Crear Producto",
       "time" : {
-        "start" : 1609791920486,
-        "stop" : 1609791920486,
+        "start" : 1609861701964,
+        "stop" : 1609861701964,
         "duration" : 0
       },
       "status" : "passed",
@@ -102,20 +102,83 @@
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
       "hasContent" : false
+    }, {
+      "name" : "Validar Crear Producto Desplegada",
+      "time" : {
+        "start" : 1609861703156,
+        "stop" : 1609861703608,
+        "duration" : 452
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a1d4e9a6e9b42b8e",
+        "name" : "Imagen Adjunta",
+        "source" : "a1d4e9a6e9b42b8e.png",
+        "type" : "image/png",
+        "size" : 96239
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Formulario de Creación de Producto completado ",
+      "time" : {
+        "start" : 1609861706210,
+        "stop" : 1609861706840,
+        "duration" : 630
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "21e6a02dcba1c86c",
+        "name" : "Imagen Adjunta",
+        "source" : "21e6a02dcba1c86c.png",
+        "type" : "image/png",
+        "size" : 104178
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Tap en botón confirmar para crear producto ",
+      "time" : {
+        "start" : 1609861706881,
+        "stop" : 1609861707592,
+        "duration" : 711
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "544e12fb45671834",
+        "name" : "Imagen Adjunta",
+        "source" : "544e12fb45671834.png",
+        "type" : "image/png",
+        "size" : 106173
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 4,
-    "attachmentsCount" : 2,
+    "stepsCount" : 7,
+    "attachmentsCount" : 5,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ {
     "name" : "cerrarSesion",
     "time" : {
-      "start" : 1609791920563,
-      "stop" : 1609791920765,
-      "duration" : 202
+      "start" : 1609861707607,
+      "stop" : 1609861707707,
+      "duration" : 100
     },
     "description" : "",
     "status" : "passed",
@@ -129,10 +192,10 @@
   } ],
   "labels" : [ {
     "name" : "package",
-    "value" : "testSuite.RegistroDeUsuarios"
+    "value" : "testSuite.EvaluacionAppium"
   }, {
     "name" : "testClass",
-    "value" : "testSuite.RegistroDeUsuarios"
+    "value" : "testSuite.EvaluacionAppium"
   }, {
     "name" : "testMethod",
     "value" : "agregarProducto"
@@ -144,13 +207,13 @@
     "value" : "CursoAppium"
   }, {
     "name" : "subSuite",
-    "value" : "testSuite.RegistroDeUsuarios"
+    "value" : "testSuite.EvaluacionAppium"
   }, {
     "name" : "host",
     "value" : "MCEX2AX69.local"
   }, {
     "name" : "thread",
-    "value" : "18140@MCEX2AX69.local.main(1)"
+    "value" : "23723@MCEX2AX69.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -163,14 +226,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ed3cbafd3a93cce1.json",
+  "source" : "920e2633c4a8ac52.json",
   "parameterValues" : [ ]
 }

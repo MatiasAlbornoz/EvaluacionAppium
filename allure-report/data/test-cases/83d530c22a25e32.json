@@ -1,5 +1,5 @@
 {
-  "uid" : "6a7335d211b65ea2",
+  "uid" : "83d530c22a25e32",
   "name" : "agregarCliente",
   "fullName" : "testSuite.RegistroDeUsuarios.agregarCliente",
   "historyId" : "29b55863c79f85956c3a225751b1834b",
@@ -40,9 +40,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "901b8fda8bde2b78",
+        "uid" : "d0703d7f1b7ac370",
         "name" : "Imagen Adjunta",
-        "source" : "901b8fda8bde2b78.png",
+        "source" : "d0703d7f1b7ac370.png",
         "type" : "image/png",
         "size" : 126696
       } ],
@@ -117,7 +117,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "62a27c40f0c159aa",
+      "uid" : "d102b62c84134a93",
       "status" : "skipped",
       "statusDetails" : "Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\\Users\\exjvilr\\Downloads\\registroDeUsuarios.apk' does not exist or is not accessible\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver\nremote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\\Users\\exjvilr\\Downloads\\registroDeUsuarios.apk' does not exist or is not accessible\n    at getResponseForW3CError (/Applications/Appium.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)\n    at asyncHandler (/Applications/Appium.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:384:37)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver",
       "time" : {
@@ -129,6 +129,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "6a7335d211b65ea2.json",
+  "source" : "83d530c22a25e32.json",
   "parameterValues" : [ ]
 }

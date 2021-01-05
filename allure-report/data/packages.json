@@ -7,7 +7,7 @@
       "name" : "Example2",
       "children" : [ {
         "name" : "iniciarSession",
-        "uid" : "931dfb0b6107c54b",
+        "uid" : "fc3b1ff5d1c3170f",
         "parentUid" : "665db78dcbc498bd033252d903045d5f",
         "status" : "broken",
         "time" : {
@@ -20,7 +20,7 @@
         "parameters" : [ ]
       }, {
         "name" : "test1",
-        "uid" : "8eb4038e0e9945f1",
+        "uid" : "79ce13b5976e93bb",
         "parentUid" : "665db78dcbc498bd033252d903045d5f",
         "status" : "passed",
         "time" : {
@@ -37,7 +37,7 @@
       "name" : "RegistroDeUsuarios",
       "children" : [ {
         "name" : "iniciarSession",
-        "uid" : "77dd9604d9bbf827",
+        "uid" : "55682287656626e7",
         "parentUid" : "0dc1264881a2c4902385de67e46de601",
         "status" : "broken",
         "time" : {
@@ -50,7 +50,7 @@
         "parameters" : [ ]
       }, {
         "name" : "agregarCliente",
-        "uid" : "6a7335d211b65ea2",
+        "uid" : "83d530c22a25e32",
         "parentUid" : "0dc1264881a2c4902385de67e46de601",
         "status" : "passed",
         "time" : {
@@ -63,7 +63,7 @@
         "parameters" : [ ]
       }, {
         "name" : "agregarProducto",
-        "uid" : "ed3cbafd3a93cce1",
+        "uid" : "8898f73131c323c4",
         "parentUid" : "0dc1264881a2c4902385de67e46de601",
         "status" : "passed",
         "time" : {
@@ -79,27 +79,27 @@
     }, {
       "name" : "EvaluacionAppium",
       "children" : [ {
-        "name" : "agregarProducto",
-        "uid" : "c0b79b0ba8ea380c",
-        "parentUid" : "da958450f060019ee84789560978f777",
-        "status" : "passed",
-        "time" : {
-          "start" : 1609863882500,
-          "stop" : 1609863897273,
-          "duration" : 14773
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "eliminarCliente",
-        "uid" : "23733987b557b3ba",
+        "uid" : "6f8b116602607b02",
         "parentUid" : "da958450f060019ee84789560978f777",
         "status" : "passed",
         "time" : {
           "start" : 1609865663537,
           "stop" : 1609865678693,
           "duration" : 15156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "agregarProducto",
+        "uid" : "267160c55f762fc",
+        "parentUid" : "da958450f060019ee84789560978f777",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609866473088,
+          "stop" : 1609866488174,
+          "duration" : 15086
         },
         "flaky" : false,
         "newFailed" : false,

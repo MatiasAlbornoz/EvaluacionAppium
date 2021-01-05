@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "931dfb0b6107c54b",
+      "uid" : "fc3b1ff5d1c3170f",
       "status" : "broken",
       "statusDetails" : "Connection refused (Connection refused)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver",
       "time" : {
@@ -29,7 +29,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8eb4038e0e9945f1",
+      "uid" : "79ce13b5976e93bb",
       "status" : "passed",
       "time" : {
         "start" : 1609788533235,
@@ -48,7 +48,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6a7335d211b65ea2",
+      "uid" : "83d530c22a25e32",
       "status" : "passed",
       "time" : {
         "start" : 1609790335587,
@@ -67,7 +67,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "77dd9604d9bbf827",
+      "uid" : "55682287656626e7",
       "status" : "broken",
       "statusDetails" : "Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\\Users\\exjvilr\\Downloads\\registroDeUsuarios.apk' does not exist or is not accessible\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver\nremote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\\Users\\exjvilr\\Downloads\\registroDeUsuarios.apk' does not exist or is not accessible\n    at getResponseForW3CError (/Applications/Appium.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)\n    at asyncHandler (/Applications/Appium.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:384:37)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MCEX2AX69.local', ip: 'fe80:0:0:0:838:789e:86b2:b622%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_261'\nDriver info: driver.version: AndroidDriver",
       "time" : {
@@ -87,12 +87,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c0b79b0ba8ea380c",
+      "uid" : "267160c55f762fc",
       "status" : "passed",
       "time" : {
-        "start" : 1609863882500,
-        "stop" : 1609863897273,
-        "duration" : 14773
+        "start" : 1609866473088,
+        "stop" : 1609866488174,
+        "duration" : 15086
       }
     } ]
   },
@@ -106,7 +106,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "23733987b557b3ba",
+      "uid" : "6f8b116602607b02",
       "status" : "passed",
       "time" : {
         "start" : 1609865663537,
@@ -125,7 +125,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ed3cbafd3a93cce1",
+      "uid" : "8898f73131c323c4",
       "status" : "passed",
       "time" : {
         "start" : 1609791913249,

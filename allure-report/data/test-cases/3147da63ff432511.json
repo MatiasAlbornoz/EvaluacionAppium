@@ -1,12 +1,12 @@
 {
-  "uid" : "7007dd1bedf7896d",
+  "uid" : "3147da63ff432511",
   "name" : "agregarProducto",
   "fullName" : "testSuite.EvaluacionAppium.agregarProducto",
   "historyId" : "e5ef87c6f441a72fdf329e3fef031cc8",
   "time" : {
-    "start" : 1609861595791,
-    "stop" : 1609861604894,
-    "duration" : 9103
+    "start" : 1609860951767,
+    "stop" : 1609860961029,
+    "duration" : 9262
   },
   "status" : "failed",
   "statusMessage" : "Error en Vista Crear Producto",
@@ -16,9 +16,9 @@
   "beforeStages" : [ {
     "name" : "iniciarSession",
     "time" : {
-      "start" : 1609861575851,
-      "stop" : 1609861585596,
-      "duration" : 9745
+      "start" : 1609860932762,
+      "stop" : 1609860941517,
+      "duration" : 8755
     },
     "description" : "",
     "status" : "passed",
@@ -37,18 +37,18 @@
     "steps" : [ {
       "name" : "Validar vista 1 de carrusel",
       "time" : {
-        "start" : 1609861596008,
-        "stop" : 1609861596516,
-        "duration" : 508
+        "start" : 1609860952017,
+        "stop" : 1609860952556,
+        "duration" : 539
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "56e1fa53930758e7",
+        "uid" : "b512c84afe82f2b4",
         "name" : "Imagen Adjunta",
-        "source" : "56e1fa53930758e7.png",
+        "source" : "b512c84afe82f2b4.png",
         "type" : "image/png",
-        "size" : 126678
+        "size" : 127022
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -58,18 +58,18 @@
     }, {
       "name" : "Validar Registro Desplegada",
       "time" : {
-        "start" : 1609861601704,
-        "stop" : 1609861602279,
-        "duration" : 575
+        "start" : 1609860957911,
+        "stop" : 1609860958426,
+        "duration" : 515
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "3234827ce6795d5",
+        "uid" : "d447ac2175a0fbad",
         "name" : "Imagen Adjunta",
-        "source" : "3234827ce6795d5.png",
+        "source" : "d447ac2175a0fbad.png",
         "type" : "image/png",
-        "size" : 121487
+        "size" : 121660
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -79,8 +79,8 @@
     }, {
       "name" : "Tap al botón '+ '",
       "time" : {
-        "start" : 1609861602319,
-        "stop" : 1609861602319,
+        "start" : 1609860958467,
+        "stop" : 1609860958467,
         "duration" : 0
       },
       "status" : "passed",
@@ -94,8 +94,8 @@
     }, {
       "name" : "Tap al botón Crear Producto",
       "time" : {
-        "start" : 1609861603241,
-        "stop" : 1609861603241,
+        "start" : 1609860959397,
+        "stop" : 1609860959397,
         "duration" : 0
       },
       "status" : "passed",
@@ -109,18 +109,18 @@
     }, {
       "name" : "Error en Vista Crear Producto",
       "time" : {
-        "start" : 1609861604428,
-        "stop" : 1609861604886,
-        "duration" : 458
+        "start" : 1609860960646,
+        "stop" : 1609860961026,
+        "duration" : 380
       },
       "status" : "failed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "4f732eafe6e16930",
+        "uid" : "ef5689773bfeef9d",
         "name" : "Imagen Adjunta",
-        "source" : "4f732eafe6e16930.png",
+        "source" : "ef5689773bfeef9d.png",
         "type" : "image/png",
-        "size" : 96148
+        "size" : 96588
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -138,9 +138,9 @@
   "afterStages" : [ {
     "name" : "cerrarSesion",
     "time" : {
-      "start" : 1609861604907,
-      "stop" : 1609861605028,
-      "duration" : 121
+      "start" : 1609860961040,
+      "stop" : 1609860961174,
+      "duration" : 134
     },
     "description" : "",
     "status" : "passed",
@@ -175,7 +175,7 @@
     "value" : "MCEX2AX69.local"
   }, {
     "name" : "thread",
-    "value" : "23561@MCEX2AX69.local.main(1)"
+    "value" : "22545@MCEX2AX69.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -194,6 +194,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7007dd1bedf7896d.json",
+  "source" : "3147da63ff432511.json",
   "parameterValues" : [ ]
 }

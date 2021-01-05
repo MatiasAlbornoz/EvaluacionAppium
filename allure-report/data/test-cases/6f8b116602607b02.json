@@ -1,5 +1,5 @@
 {
-  "uid" : "23733987b557b3ba",
+  "uid" : "6f8b116602607b02",
   "name" : "eliminarCliente",
   "fullName" : "testSuite.EvaluacionAppium.eliminarCliente",
   "historyId" : "13d974bd381f3a588adf8071c2ee31f7",
@@ -40,9 +40,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d1bf534e1f717eab",
+        "uid" : "60b9a71c93aa9977",
         "name" : "Imagen Adjunta",
-        "source" : "d1bf534e1f717eab.png",
+        "source" : "60b9a71c93aa9977.png",
         "type" : "image/png",
         "size" : 125447
       } ],
@@ -61,9 +61,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "ab41d3b7b34d2b59",
+        "uid" : "1b9fc7b665c2643b",
         "name" : "Imagen Adjunta",
-        "source" : "ab41d3b7b34d2b59.png",
+        "source" : "1b9fc7b665c2643b.png",
         "type" : "image/png",
         "size" : 119069
       } ],
@@ -82,9 +82,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "c453a7d65e71c295",
+        "uid" : "6b671e852d57968e",
         "name" : "Imagen Adjunta",
-        "source" : "c453a7d65e71c295.png",
+        "source" : "6b671e852d57968e.png",
         "type" : "image/png",
         "size" : 119069
       } ],
@@ -103,9 +103,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "95b22f4d676588a6",
+        "uid" : "60fd79eba064faed",
         "name" : "Imagen Adjunta",
-        "source" : "95b22f4d676588a6.png",
+        "source" : "60fd79eba064faed.png",
         "type" : "image/png",
         "size" : 196470
       } ],
@@ -124,9 +124,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d5e6b5ff75896f7f",
+        "uid" : "ddc71e678ae55904",
         "name" : "Imagen Adjunta",
-        "source" : "d5e6b5ff75896f7f.png",
+        "source" : "ddc71e678ae55904.png",
         "type" : "image/png",
         "size" : 182063
       } ],
@@ -145,9 +145,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "9494f6a121184f1c",
+        "uid" : "1b411c457ad3845b",
         "name" : "Imagen Adjunta",
-        "source" : "9494f6a121184f1c.png",
+        "source" : "1b411c457ad3845b.png",
         "type" : "image/png",
         "size" : 163664
       } ],
@@ -166,9 +166,9 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "a601306822d4566d",
+        "uid" : "3b0fb3999be38938",
         "name" : "Imagen Adjunta",
-        "source" : "a601306822d4566d.png",
+        "source" : "3b0fb3999be38938.png",
         "type" : "image/png",
         "size" : 106534
       } ],
@@ -246,6 +246,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "23733987b557b3ba.json",
+  "source" : "6f8b116602607b02.json",
   "parameterValues" : [ ]
 }
